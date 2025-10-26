@@ -1,0 +1,7 @@
+# Same as Black.
+line-length = 88
+indent-width = 4
+
+[lint]
+# Enable a good base set of rules.
+select = ["E", "F", "W", "I", "N"]
