@@ -1,0 +1,15 @@
+# Shortlinks
+/go/start              /#hero                301
+/go/truenorth          https://northstaraokeystone.gumroad.com/l/kcuhl    301
+/go/headline           /#why-now             301
+/go/trust              /#trust               301
+/go/contact            /#contact-modal       301
+/go/linkedin           https://linkedin.com/in/northstaraokeystone    301
+/go/youtube            https://www.youtube.com/@NorthstarAOKeystone    301
+
+# Legacy redirects (add as needed)
+/home                  /                     301
+/index.html            /                     301
+
+# Fallback
+/*                     /index.html           200
